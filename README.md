@@ -3,7 +3,8 @@ EstoniaOpenData
 
 Crowdsourced collection of public Estonian open data resources. While forking, please add only links to publicly available repositories.
 
-Data Resources
+
+Estonian Data Resources
 -----------
 
 #### Transport
@@ -13,8 +14,10 @@ Data Resources
 * Tallinn Transport: http://soiduplaan.tallinn.ee/data/
 
 #### Mapping
+* Estonian Building Registry: http://opendata.riik.ee:8080/dataset/ehitisregistri-avaandmed
 
 #### Society
+* Estonia Statistics: http://pub.stat.ee/
 
 #### Health
 
@@ -23,13 +26,27 @@ Data Resources
 #### Government
 
 #### Government Spending
+* Local Government Budget: http://www.riigipilv.ee/
 
 #### Business and Economy
+* Bank of Estonia: http://statistika.eestipank.ee/
 
 #### Crime and Justice
+
+#### Technology and Internet
+* Web statistics: http://metrix.station.ee/
+
+
+International Data Resources
+-----------
+
+* World Health Organization Data: http://apps.who.int/gho/data/node.country.country-EST
+* World Bank: http://data.worldbank.org/country/estonia
+* Trading Economics: http://www.tradingeconomics.com/estonia/gdp
 
 
 Other References
 ----
 
-Estonian open data initiative: http://www.riso.ee/et/avaandmete-roheline-raamat
+* Estonian open data initiative: http://www.riso.ee/et/avaandmete-roheline-raamat
+* Government open data portal: http://opendata.riik.ee/
