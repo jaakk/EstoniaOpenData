@@ -34,7 +34,7 @@ Estonian Data Resources
 #### Crime and Justice
 
 #### Technology and Internet
-* Web statistics: http://metrix.station.ee/
+* Internet statistics: http://metrix.station.ee/
 
 
 International Data Resources
