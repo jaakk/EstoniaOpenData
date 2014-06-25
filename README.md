@@ -27,6 +27,7 @@ Estonian Data Resources
 
 #### Government Spending
 * Local Government Budget: http://www.riigipilv.ee/
+* Government Parties Income and Spending: http://www.erjk.ee/et/aruanded/erakondade-tulud-ja-laekumised
 
 #### Business and Economy
 * Bank of Estonia: http://statistika.eestipank.ee/
