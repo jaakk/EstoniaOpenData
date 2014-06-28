@@ -31,6 +31,7 @@ Estonian Data Resources
 
 #### Business and Economy
 * Bank of Estonia: http://statistika.eestipank.ee/
+* Estonian Stock Exchange Shareholders: http://statistics.e-register.ee/et/shareholders
 
 #### Crime and Justice
 
