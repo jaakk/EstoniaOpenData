@@ -20,6 +20,7 @@ Estonian Data Resources
 * Estonia Statistics: http://pub.stat.ee/
 
 #### Health
+* Estonian Health Registry: http://mveeb.sm.ee/avaandmed
 
 #### Education
 
