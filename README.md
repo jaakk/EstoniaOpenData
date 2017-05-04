@@ -15,6 +15,7 @@ Estonian Data Resources
 
 #### Mapping
 * Estonian Building Registry: http://opendata.riik.ee:8080/dataset/ehitisregistri-avaandmed
+* Estonian Maritime Map: https://gis.ee/meri
 
 #### Society
 * Estonia Statistics: http://pub.stat.ee/
